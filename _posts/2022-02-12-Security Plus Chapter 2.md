@@ -37,7 +37,7 @@ Software's designed to infiltrate a computer system and possibly damaged it with
 8. **Spam**: Activities that abuse electronic messaging systems most commonly through email. Spammers often exploit a company's open mail relays to send their message's.
 	        SPIM: Spam Over Instant Messaging.
 	
-## 1. Virus
+## 2. Virus
 	
 ### What Is A Virus:
 A computer virus is a type of computer program that, when executed, replicates itself by modifying other computer programs and inserting its own code. When this replication succeeds, the affected areas are then said to be "infected" with a computer virus. Virus require a user action i order to reproduce and spread.
