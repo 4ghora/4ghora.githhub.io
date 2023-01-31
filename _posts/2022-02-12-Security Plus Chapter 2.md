@@ -1,5 +1,5 @@
 ---
-title: Security Plus Chapter 2 Malwares
+title: Security Plus Chapter 2 - Malwares
 categories: [Comptia,Security Plus, Chapter 2]
 tags: [comptia,basics,security,notes]     # TAG names should always be lowercase
 ---
