@@ -1,7 +1,7 @@
 ---
 title: Security Plus Chapter 1
 categories: [Comptia,Security Plus, Chapter 1]
-tags: [networking,basics,security,notes]     # TAG names should always be lowercase
+tags: [comptia,basics,security,notes]     # TAG names should always be lowercase
 ---
 
 # 1. Intro To Security
