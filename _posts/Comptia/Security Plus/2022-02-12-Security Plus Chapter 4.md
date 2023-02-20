@@ -1,6 +1,6 @@
 ---
 title: Security Plus Chapter 4 - Mobile Device Security
-categories: [Comptia,Security Plus, Chapter 3]
+categories: [Comptia,Security Plus, Chapter 4]
 tags: [comptia,basics,security,notes]     # TAG names should always be lowercase
 ---
 
