@@ -16,7 +16,7 @@
   url: 'https://app.hackthebox.com/profile/228431'
 -
   type: TryHackMe
-  icon: 'fa-regular fa-cloud'
+  icon: 'fa-solid fa-cloud'
   url: 'https://tryhackme.com/p/GoodGuyMickey'
 #-
 #  type: rss
