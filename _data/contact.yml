@@ -12,7 +12,7 @@
   noblank: true            # open link in current tab
 -
   type: HackTheBox
-  icon: 'fa-duotone fa-cube'
+  icon: 'fa-solid fa-cube'
   url: 'https://app.hackthebox.com/profile/228431'
 -
   type: TryHackMe
