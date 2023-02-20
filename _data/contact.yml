@@ -10,6 +10,14 @@
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
+-
+  type: HackTheBox
+  icon: 'fa-duotone fa-cube'
+  url: 'https://app.hackthebox.com/profile/228431'
+-
+  type: TryHackMe
+  icon: 'fa-regular fa-cloud'
+  url: 'https://tryhackme.com/p/GoodGuyMickey'
 #-
 #  type: rss
 #  icon: 'fas fa-rss'
