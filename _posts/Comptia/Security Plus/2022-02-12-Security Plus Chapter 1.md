@@ -1,28 +1,28 @@
 ---
-title: Security Plus Chapter 1
+title: Security Plus Chapter 1 - Introduction
 categories: [Comptia,Security Plus, Chapter 1]
 tags: [comptia,basics,security,notes]     # TAG names should always be lowercase
 ---
 
-# 1. Intro To Security
+## 1. Intro To Security
 ### Information Security:
-Act of protecting data and information from unauthorized access, unlawful modification, disruption, disclosure, corruption and destruction.
++ Act of protecting data and information from unauthorized access, unlawful modification, disruption, disclosure, corruption and destruction.
 
 ### 	Information System Security:
-Act of protecting system that holds and process our crucial data.
++ Act of protecting system that holds and process our crucial data.
 
 ### Comments:
-Unlawful Modification means Modification or editing of data by some unauthorized 3rd Person.
++ Unlawful Modification means Modification or editing of data by some unauthorized 3rd Person.
 
-#Unlawful Disruption means Creating problems while using or accessing the data.
++ Unlawful Disruption means Creating problems while using or accessing the data.
 
-#Unlawful Disclosure means Preventing Leakage of sensitive or private data.
++ Unlawful Disclosure means Preventing Leakage of sensitive or private data.
 
-#Unlawful Corruption or corruption means preventing data from self corruption by taking regular backups or by some unauthorized 3rd party.
++ Unlawful Corruption or corruption means preventing data from self corruption by taking regular backups or by some unauthorized 3rd party.
 
-#Unlawful Destruction means preventing corruption or deletion of data by 3rd party.
++ Unlawful Destruction means preventing corruption or deletion of data by 3rd party.
 
-# 2. CIA Triad And 3 A's of Security
+## 2. CIA Triad And 3 A's of Security
 	
 ### CIA Triad: C = Confidentiality I = integrity A = Availability
 1. **Confidentiality**: Information has not been disclosed to unauthorized people.
@@ -47,8 +47,8 @@ Unlawful Modification means Modification or editing of data by some unauthorized
 2. Technical Control
 3. Administrative Controls.
 	
-#These are obvious so need to explain :)
-#There is a whole section upcoming no need to cry bitch.
++ These are obvious so need to explain :)
++ There is a whole section upcoming no need to cry bitch.
 
 	
 # 4. Types Of Hackers And Threats Actors
@@ -62,7 +62,6 @@ Unlawful Modification means Modification or editing of data by some unauthorized
 	
 ### Threat Actors:
 1. **Script Kiddie**:   Hackers with little to no skills who only use the tools and exploits written by others.
-2. **Hacktivists**:     Hackers who are driven by a cause like social change, political agenda,
-and sometimes even terrorism. Most Well known Hacktivists Group is Anonymous.
+2. **Hacktivists**:     Hackers who are driven by a cause like social change, political agenda, and sometimes even terrorism. Most Well known Hacktivists Group is Anonymous.
 3. **Organized Crime**: Hackers who are part of a crime group that is well funded any highly sophisticated.
 4. **Advanced Persistent Threats**: Highly trained and funded group of hackers(often by nation states) with convert and open-source intelligence at their disposal.

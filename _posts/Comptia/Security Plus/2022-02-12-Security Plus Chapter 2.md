@@ -7,7 +7,7 @@ tags: [comptia,basics,security,notes]     # TAG names should always be lowercase
 	
 ### Malware:
 	
-Software's designed to infiltrate a computer system and possibly damaged it without the users knowledge or consent.
++ Software's designed to infiltrate a computer system and possibly damaged it without the users knowledge or consent.
 	
 ### Types Of Malware:
 	
@@ -40,7 +40,7 @@ Software's designed to infiltrate a computer system and possibly damaged it with
 ## 2. Virus
 	
 ### What Is A Virus:
-A computer virus is a type of computer program that, when executed, replicates itself by modifying other computer programs and inserting its own code. When this replication succeeds, the affected areas are then said to be "infected" with a computer virus. Virus require a user action i order to reproduce and spread.
++ A computer virus is a type of computer program that, when executed, replicates itself by modifying other computer programs and inserting its own code. When this replication succeeds, the affected areas are then said to be "infected" with a computer virus. Virus require a user action i order to reproduce and spread.
 	
 ### Types Of Virus: 
 1. **Boot Sector**: These virus are stored in the first sector of a hard drive and are loaded into memory upon boot. Very hard to detect because it installs during the booting of the system. system's antivirus only starts after the booting of the system. To detect these kind of viruses use antivirus which looks specifically looks for boot sector viruses. Modern 3rd party antivirus are capable enough nowadays.
@@ -105,7 +105,7 @@ A computer virus is a type of computer program that, when executed, replicates i
 	-> Malware hiding technique: Double file extension are being displayed, such as textfile.txt.exe
 	-> Computer might have been infected if it being to act strangely.
 	    
-## 4. Defense's
+## 4. Defense
 	
 ### Removing Malware:
 1. Scan the system
