@@ -1,7 +1,7 @@
 ---
 title: APIs for Beginners
 categories: [Courses,FreeCodeCamp]
-tags: [youtube,free,code,camp,freecodecamp,FreeCodeCamp,course,courses]     # TAG names should always be lowercase
+tags: [youtube,free,code,camp,freecodecamp,course,courses]     # TAG names should always be lowercase
 ---
 
 What is an API? Learn all about APIs (Application Programming Interfaces) in this full tutorial for beginners. You will learn what APIs do, why APIs exist, and the many benefits of APIs. APIs are used all the time in programming and web development so it is important to understand how to use them.
