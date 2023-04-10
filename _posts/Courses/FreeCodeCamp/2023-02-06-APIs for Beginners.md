@@ -22,7 +22,15 @@ What is an API? Learn all about APIs (Application Programming Interfaces) in thi
 + set of tools designed for software developers
 + helps by proving abstraction of the implementation
 + basically pre build code which can be used when needed for cross platform execution and implementation
-+ 
++ Code can be written for web and it works on all browser, it is because of the set of Web Api's which every browser must implement.
+
+### Remote APIs
++ Receives data from a remote place processes it and then sends it back.
++ **The path to remote APIs**
+  + SOAP (formerly a ackronym for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), although some legacy systems communicate over Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.
+
+### How The Web Works
++  
 
 
 

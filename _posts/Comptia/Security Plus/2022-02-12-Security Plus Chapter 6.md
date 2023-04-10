@@ -25,4 +25,9 @@ tags: [comptia,basics,security,notes]     # TAG names should always be lowercase
 + Trusted Foundry Program is operated by the Department Of Defense(DoD)
 
 ### Hardware Source Authenticity
++ The process of ensuring hardware is procured tamper free from trustworthy suppliers
++ Risk increases when counterfeited or compromised devices when purchasing from second hand or aftermarket sources
+
+### Root Of Trust
++ cryptographic module embedded within a computer that can endorse trusted execution and attest to boot settings and metrics
 + 
