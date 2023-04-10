@@ -1,5 +1,5 @@
 ---
-title: Chapter 1 Security Principles
+title: ISC2 - Chapter 1 Security Principles
 categories: [Courses,ISC2]
 tags: [isc2,certified,cybersecurity,course,courses]     # TAG names should always be lowercase
 ---
