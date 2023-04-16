@@ -30,11 +30,24 @@ What is an API? Learn all about APIs (Application Programming Interfaces) in thi
   + SOAP (formerly a ackronym for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), although some legacy systems communicate over Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.
 
 ### How The Web Works
-+  
++  Client uses url(universal resource locator) aka URI (Uniform Resource Identifier) to connect to the server.
++  protocols are used to communicate in different forms to the server, like http/s for web pages and ftp for accessing a file.
++  GET requests will only receive data and Post will deliver or change some data.
++  server responds contain html which is rendered out on the web browser 
++  when a link is click same process repeats.
 
-
-
-
+### Restful APIs
++ REST (Representational State Transfer)
++ API's that meet rest architectural style constraints are considered to be restful
++ RESTful API Constraints
+  1. Client-Server Architecture 
+     + Client like program send data to the server
+  2. Statelessness
+     + packet sent is stateless(server wont remember you) 
+  3. Cacheability
+  4. Layered Systems
+  5. Code on Demand
+  6. Uniform Interface 
 
 ## Unit 2 - Exploring APIs
 ###  Exploring an API online
