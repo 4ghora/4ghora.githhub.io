@@ -23,6 +23,14 @@ In order to clear my basics, I started to preparing for `Comptia Network Plus` a
 
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/20ff1093-bab9-4481-98fe-6c780f8ecb88/public_url "Network Plus Certificate")
 
+[ISC2 - Certified In CyberSecurity](https://imgur.com/a/FSnfY0Y)
+
+[![ISC2 - Certified In CyberSecurity](https://images.credly.com/size/110x110/images/4d894b46-a6c9-430f-bad4-75ccb7288bf9/image.png)](https://imgur.com/a/FSnfY0Y "ISC2 - Certified In CyberSecurity")
+
+[Certified Ethical Hacker v12](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=fhWsS7NWFKWHcYkCdiTW/vJbcYaMW14LUCVfYIUJFgg=)
+
+[![Certified Ethical Hacker v12](https://images.credly.com/size/110x110/images/ae9a98b9-240b-47b1-9105-acd4f019ed1a/CEH_Badge.png)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=fhWsS7NWFKWHcYkCdiTW/vJbcYaMW14LUCVfYIUJFgg= "Certified Ethical Hacker v12")
+
 <!-- ## HackTheBox Certificates -->
 
 ## Badges
