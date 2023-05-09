@@ -15,21 +15,21 @@ I am an enthusiastic and driven Commerce graduate and a self learner with an int
 In order to clear my basics, I started to preparing for `Comptia Network Plus` and cleared in june 2022 after clearing my network plus certification, I got an opportunity to appear for `Microsoft Azure Fundamentals Certification`.
 <br>
 
-[CompTIA Network+ ce Certification](https://www.credly.com/badges/f7f9c0b7-6a8f-485f-a15b-189f95890af9/public_url)
+[CompTIA : Network+ ce Certification](https://www.credly.com/badges/f7f9c0b7-6a8f-485f-a15b-189f95890af9/public_url)
 
 [![Network Plus](https://images.credly.com/size/110x110/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png)](https://www.credly.com/badges/f7f9c0b7-6a8f-485f-a15b-189f95890af9/public_url "Network Plus Certificate")
 
-[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/20ff1093-bab9-4481-98fe-6c780f8ecb88/public_url)
+[Microsoft Certified : Azure Fundamentals](https://www.credly.com/badges/20ff1093-bab9-4481-98fe-6c780f8ecb88/public_url)
 
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/20ff1093-bab9-4481-98fe-6c780f8ecb88/public_url "Network Plus Certificate")
+[![Microsoft Certified : Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/20ff1093-bab9-4481-98fe-6c780f8ecb88/public_url "Microsoft Certified : Azure Fundamentals")
 
-[ISC2 - Certified In CyberSecurity](https://imgur.com/a/FSnfY0Y)
+[ISC2 : Certified In CyberSecurity](https://imgur.com/a/FSnfY0Y)
 
-[![ISC2 - Certified In CyberSecurity](https://images.credly.com/size/110x110/images/4d894b46-a6c9-430f-bad4-75ccb7288bf9/image.png)](https://imgur.com/a/FSnfY0Y "ISC2 - Certified In CyberSecurity")
+[![ISC2 : Certified In CyberSecurity](https://images.credly.com/size/110x110/images/4d894b46-a6c9-430f-bad4-75ccb7288bf9/image.png)](https://imgur.com/a/FSnfY0Y "ISC2 - Certified In CyberSecurity")
 
-[Certified Ethical Hacker v12](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=fhWsS7NWFKWHcYkCdiTW/vJbcYaMW14LUCVfYIUJFgg=)
+[EC-Council : Certified Ethical Hacker v12](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=fhWsS7NWFKWHcYkCdiTW/vJbcYaMW14LUCVfYIUJFgg=)
 
-[![Certified Ethical Hacker v12](https://images.credly.com/size/110x110/images/ae9a98b9-240b-47b1-9105-acd4f019ed1a/CEH_Badge.png)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=fhWsS7NWFKWHcYkCdiTW/vJbcYaMW14LUCVfYIUJFgg= "Certified Ethical Hacker v12")
+[![EC-Council : Certified Ethical Hacker v12](https://images.credly.com/size/110x110/images/ae9a98b9-240b-47b1-9105-acd4f019ed1a/CEH_Badge.png)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=fhWsS7NWFKWHcYkCdiTW/vJbcYaMW14LUCVfYIUJFgg= "EC-Council : Certified Ethical Hacker v12")
 
 <!-- ## HackTheBox Certificates -->
 
