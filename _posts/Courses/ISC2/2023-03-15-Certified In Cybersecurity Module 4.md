@@ -29,7 +29,7 @@ tags: [isc2,certified,cybersecurity,course,courses, notes]     # TAG names shoul
 + `Server`
   + computer that provides information to other computers on a network.
 
-+ Endpoints
++ `Endpoints`
   + Endpoints are the ends of a network communication link. One end is often at a server where a resource resides, and the other end is often a client making a request to use a network resource.
 
 ### Other Networking Terms
@@ -44,4 +44,55 @@ tags: [isc2,certified,cybersecurity,course,courses, notes]     # TAG names shoul
     + IP hosts associate that address with a unique logical address.
     +  logical IP address represents the network interface within the network and can be useful to maintain communications
 
-+ 
+### Networking Models
++ Computers and networks emerge from the integration of communication devices, storage devices, processing devices, security devices, input devices, output devices, operating systems, software, services, data and people.
++ organization’s security needs into safe, reliable and effective network systems
++ purpose of all communications is to exchange information and ideas
++ simple goals can be re-expressed in network
+  + Provide reliable, managed communications between hosts (and users)
+  + Isolate functions in layers
+  + Use `packets` as the basis of communication
+  + Standardize routing, addressing and control
+  + Allow layers beyond inter-networking to add functionality
+  + Be vendor-agnostic, scalable and resilient
+
++ Network model has at least two layers:
+  + Upper Layer
+    + responsible for managing the integrity of a connection and controlling the session as well as establishing, maintaining and terminating communication sessions between two computers.
+
+  + Lower Layer
+    + media or transport layer and is responsible for receiving bits from the physical connection medium and converting them into a frame. Frames are grouped into standardized sizes.
+
+### Open Systems Interconnection (OSI) Model
++ OSI model divides networking tasks into seven distinct layers.
++ Each layer is responsible for performing specific tasks or operations with the goal of supporting data exchange between two computers.
++ The Application, Presentation, and Session Layers (5-7) are commonly referred to simply as data.
++ **Encapsulation**
+  + hiding data and code during all phases of software development and operational use.
+  + particularly important when discussing Transport, Network and Data Link layers (2-4), which all generally include some form of header.
+  + Encapsulation occurs as the data moves down the OSI model from Application to Physical.
+  + As data is encapsulated at each descending layer, the previous layer’s header, payload and footer are all treated as the next layer’s payload.
+
++ Inverse action occurs as data moves up the OSI model layers from Physical to Application. (de-capsulation)
++ he header and footer are used to properly interpret the data payload and are then discarded.
+
+### Transmission Control Protocol/Internet Protocol
++ most widely used protocol today, TCP/IP, was developed in the early 1970s.
++ not just a single protocol; rather, it is a protocol stack comprising dozens of individual protocols.
++ TCP/IP is a platform-independent protocol based on open standards.
++ two primary Transport Layer protocols of TCP/IP are TCP and UDP.
+  + TCP is a full-duplex connection-oriented protocol
+  + UDP is a simplex connectionless protocol.
+
++ Internet Control Message Protocol (ICMP) is used to determine the health of a network or a specific link.
+
+### Internet Protocol (IPv4 and IPv6)
++ currently deployed and used worldwide in two major versions.
+  + IPv4 provides a 32-bit address space, which by the late 1980s was projected to be exhausted.
+  + IPv6 was introduced in December 1995 and provides a 128-bit address space along with several other important features. 
+
++ An IPv4 address is expressed as four octets separated by a dot (.)
++ Each octet may have a value between 0 and 255.
++ 0 is the network itself, and 255 is generally reserved for broadcast purposes.
+
+  
